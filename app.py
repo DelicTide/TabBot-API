@@ -3,7 +3,6 @@ import os
 import subprocess
 
 app = Flask(__name__)
-CORS(app)
 
 # Route to fetch eBay images
 @app.route('/fetch_ebay', methods=['POST'])
