@@ -1,0 +1,2 @@
+$PATH for training images is auto set by yolo in a config file. You must update the path to your images in that file. 
+(TODO find file $PATH and possibly force $PATH to training/data/(images/labels)/(test/train/val) We should be able to do that with a flag?maybe?)

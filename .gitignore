@@ -1,0 +1,32 @@
+# Ignore virtual environment
+venv/
+.venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment variables
+.env
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system files
+.DS_Store
+
+# Ignore image files
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# Ignore data files
+*.csv
+
+# Ignore model files
+*.onnx
+*.pt
